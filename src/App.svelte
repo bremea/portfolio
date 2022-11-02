@@ -1,9 +1,10 @@
-<Tailwindcss />
-
 <script lang="ts">
-	import Tailwindcss from './Tailwindcss.svelte';
+  import Background from "./components/Background.svelte";
+  import Tailwindcss from "./Tailwindcss.svelte";
 </script>
 
-<main class="p-4 mx-auto text-center max-w-xl">
-	<p>Hello World</p>
+<Tailwindcss />
+
+<main class="w-full h-full">
+  <Background />
 </main>
