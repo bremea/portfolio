@@ -53,3 +53,9 @@
   class="w-full h-full fixed top-0 left-0"
   bind:this={canvas}
 />
+
+<style>
+	canvas {
+		z-index: -5;
+	}
+</style>
