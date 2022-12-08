@@ -5,17 +5,17 @@
   let d = new Date(
     new Date().toLocaleString("en-US", { timeZone: "America/New_York" })
   );
-  let hour = d.getHours().toString().padStart(2, '0');
-  let minute = d.getMinutes().toString().padStart(2, '0');
-  let second = d.getSeconds().toString().padStart(2, '0');
+  let hour = d.getHours().toString().padStart(2, "0");
+  let minute = d.getMinutes().toString().padStart(2, "0");
+  let second = d.getSeconds().toString().padStart(2, "0");
 
   setInterval(() => {
     d = new Date(
       new Date().toLocaleString("en-US", { timeZone: "America/New_York" })
     );
-    hour = d.getHours().toString().padStart(2, '0');
-    minute = d.getMinutes().toString().padStart(2, '0');
-    second = d.getSeconds().toString().padStart(2, '0');
+    hour = d.getHours().toString().padStart(2, "0");
+    minute = d.getMinutes().toString().padStart(2, "0");
+    second = d.getSeconds().toString().padStart(2, "0");
   }, 1000);
 </script>
 
@@ -42,8 +42,13 @@
       <p><span class="font-bold">Learning</span> [ Rust, Go ]</p>
       <br />
       <p>
-        <span class="font-bold">Projects</span> [ AIonary, Combo.Bot, Ads but Better
-        ]
+        <span class="font-bold">Projects</span> [
+        <a
+          href="https://aionary.com"
+          target="_blank"
+          rel="noreferrer"
+          class="underline">AIonary</a
+        >, Combo.Bot, Ads but Better, Crowd Labs ]
       </p>
     </div>
   </section>
