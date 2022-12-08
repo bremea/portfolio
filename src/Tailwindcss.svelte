@@ -7,6 +7,6 @@
 
   * {
     font-family: "JetBrains Mono", monospace;
-	color: #bdc1ca;
+	@apply text-gray-800;
   }
 </style>
