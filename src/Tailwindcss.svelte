@@ -14,10 +14,14 @@
   @tailwind components;
   @tailwind utilities;
 
-  @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;300;400;500;700;800&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;300;400;500;700;800;900&display=swap");
 
   * {
     font-family: "JetBrains Mono", monospace;
-    @apply text-gray-800;
+    @apply text-white;
+  }
+
+  img {
+	height: 100%;
   }
 </style>
