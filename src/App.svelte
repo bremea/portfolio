@@ -23,20 +23,21 @@
   <Background />
 
   <section class="w-full min-h-screen flex items-center justify-center">
-    <div class="relative bg-black bg-opacity-50 backdrop-blur p-4 md:p-8 rounded-lg flex text-sm md:text-base shadow-md mx-4 md:mx-32">
+    <div class="text-center relative bg-black bg-opacity-50 backdrop-blur p-4 md:p-8 rounded-lg flex text-sm md:text-base shadow-md mx-4 md:mx-32">
       <div class="flex-col flex w-full">
         <p>
           <span class="font-black">bremea</span><br />
-          hallo, welcome to my website.<br /><a href="mailto:bremeagames@gmail.com" class="underline">email me</a>
+          hallo, welcome to my website.
         </p>
         <br />
         <p><span class="italic">it's <span class="font-black">{hour}:{minute}:{second}</span> in my timezone (GMT-5000)</span></p>
         <br />
         <p>
-          <span class="font-black">Socials: </span>
-          <a href="https://github.com/bremea" target="_blank" rel="noreferrer" class="underline">Github</a>,
-          <a href="https://discord.com/users/710164635524923575" target="_blank" rel="noreferrer" class="underline">Discord</a>,
-          <a href="https://twitter.com/brett_8975" target="_blank" rel="noreferrer" class="underline">Twitter</a>
+          <span class="font-black">socials: </span>
+          <a href="https://github.com/bremea" target="_blank" rel="noreferrer" class="underline">github</a>,
+		  <a href="mailto:bremeagames@gmail.com" class="underline">email</a>,
+          <a href="https://discord.com/users/710164635524923575" target="_blank" rel="noreferrer" class="underline">discord</a>,
+          <a href="https://twitter.com/brett_8975" target="_blank" rel="noreferrer" class="underline">twitter</a>
         </p>
       </div>
     </div>
