@@ -26,22 +26,11 @@
     <div class="relative bg-black bg-opacity-50 backdrop-blur p-4 md:p-8 rounded-lg flex text-sm md:text-base shadow-md mx-4 md:mx-32">
       <div class="flex-col flex w-full">
         <p>
-          <span class="font-black">Brett Meadows</span><br />
-          Full-stack developer and student<br /><a href="mailto:brett@bremea.com" class="underline">brett@bremea.com</a>
+          <span class="font-black">bremea</span><br />
+          hallo, welcome to my website.<br /><a href="mailto:bremeagames@gmail.com" class="underline">email me</a>
         </p>
         <br />
-        <p><span class="italic">It's <span class="font-black">{hour}:{minute}:{second}</span> in my timezone (GMT-5000)</span></p>
-        <br />
-        <p><span class="font-black">Skills: </span>TypeScript, C, Java, SQL, Cassandra, Prisma, Redis, NodeJS, NextJS, Unity, HTML, Linux, Docker, Kubernetes, GitHub, GCP, Svelte</p>
-        <br />
-        <p><span class="font-black">Learning: </span>Rust, Go, Flutter, AWS, Godot</p>
-        <br />
-        <p>
-          <span class="font-black">Projects: </span><br />
-          <a href="https://aionary.com" target="_blank" rel="noreferrer" class="underline">AIonary</a> (<span class="italic">Pictionary with an AI</span>)<br />
-          <a href="https://github.com/bremea/tinfoil" target="_blank" rel="noreferrer" class="underline">Tinfoil</a> (<span class="italic">Scalable Discord API Library</span>)<br />
-          <a href="https://getcrowd.app" target="_blank" rel="noreferrer" class="underline">Crowd Labs</a> (<span class="italic">Foot traffic analytics w/ IoT</span>)<br />
-        </p>
+        <p><span class="italic">it's <span class="font-black">{hour}:{minute}:{second}</span> in my timezone (GMT-5000)</span></p>
         <br />
         <p>
           <span class="font-black">Socials: </span>
