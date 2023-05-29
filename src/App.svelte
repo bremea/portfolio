@@ -37,7 +37,7 @@
           <a href="https://github.com/bremea" target="_blank" rel="noreferrer" class="underline">github</a>,
 		  <a href="mailto:bremeagames@gmail.com" class="underline">email</a>,
           <a href="https://discord.com/users/710164635524923575" target="_blank" rel="noreferrer" class="underline">discord</a>,
-          <a href="https://twitter.com/brett_8975" target="_blank" rel="noreferrer" class="underline">twitter</a>
+          <a href="https://twitter.com/bremea8975" target="_blank" rel="noreferrer" class="underline">twitter</a>
         </p>
       </div>
     </div>
